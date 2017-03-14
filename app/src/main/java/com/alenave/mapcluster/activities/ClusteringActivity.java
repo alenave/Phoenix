@@ -15,7 +15,7 @@ import static com.alenave.mapcluster.MainActivity.clusterList;
 public class ClusteringActivity extends BaseActivity {
     @Override
     protected void startMap() {
-        LatLng yourLocation = new LatLng(12.9533444, 77.6593393);
+        LatLng yourLocation = new LatLng(22.3579355, 113.9809289);
         getMap().moveCamera(CameraUpdateFactory.newLatLngZoom(yourLocation, 12));
         try {
             readItems();
