@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "826970966058",
+    "firebase_url": "https://clusters-b7112.firebaseio.com",
+    "project_id": "clusters-b7112",
+    "storage_bucket": "clusters-b7112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826970966058:android:d5dbda28fbabc76a",
+        "android_client_info": {
+          "package_name": "com.alenave.mapcluster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826970966058-jtjre1u6v9mso5e35mrp03o73672kcr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACK1PuoVeA44Z065zJMMfgGl09SuOWJ1Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
