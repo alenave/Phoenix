@@ -6,5 +6,5 @@ Each cluster will have number of markers which comes into prticular radius, have
 
 # Prerequisites
 
-Android Studio
-Java 7/8
+- Android Studio
+- Java 7/8
